@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Ewere Ebie, friends call me caleb
-- 👀 I’m interested in Javascript, Typescript, Python, React, Node and DevOps
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on a Python application
-- 🤔 I’m looking for help with Systems architecture
-- 💬 Ask me about Javascript
+- 👀 I’m interested in Java, Typescript, Python and DevOps
+- 🌱 I’m currently a Senior Java Engineer
+- 💞️ I’m looking to collaborate on a Devops and AI application
+- 🤔 I’m looking to network with smart people
+- 💬 Ask me about Programming
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/thisiscaleb/)
